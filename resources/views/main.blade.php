@@ -57,7 +57,7 @@
                   <nav class="main-nav">
 
                       <a href="/" class="logo">
-                          DESA PENDARUNGANN
+                          DESA PENDARUNGANNn
                       </a>
 
                       <ul class="nav">
